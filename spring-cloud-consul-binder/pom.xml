@@ -76,7 +76,7 @@
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-consul-core</artifactId>
-			<version>${project.version}</version>
+			<version>3.0.4</version>
 			<type>test-jar</type>
 			<scope>test</scope>
 		</dependency>
