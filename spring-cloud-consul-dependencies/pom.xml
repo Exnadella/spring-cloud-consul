@@ -62,7 +62,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-starter-consul-all</artifactId>
-				<version>${project.version}</version>
+				<version>3.0.4</version>
 			</dependency>
 			<dependency>
 				<groupId>com.ecwid.consul</groupId>
